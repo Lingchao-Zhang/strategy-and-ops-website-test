@@ -1,0 +1,20 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# local environment varibales
+.env
+
+# storage
+storage/
+
+# json file under data folder
+data/*.json
+
+# LMS course links(private)
+LMS-courses-links.ts
